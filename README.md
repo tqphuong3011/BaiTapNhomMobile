@@ -1,7 +1,7 @@
 # BÀI TẬP NHÓM DI ĐỘNG NÂNG CAO
 
 ## Thành viên nhóm:
-Lê Xuân Bách - 21110359 \n
+Lê Xuân Bách - 21110359  
 Trần Quốc Phương - 21110847
 
 ## Các bài tập
