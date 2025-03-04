@@ -1,11 +1,6 @@
-# BÀI TẬP NHÓM DI ĐỘNG NÂNG CAO
-
-## Thành viên nhóm:
-Lê Xuân Bách - 21110359  
-Trần Quốc Phương - 21110847
-
-## Các bài tập
->**Note**: Nhánh "main" là set up ban đầu ạ. Thầy chuyển qua các nhánh branch khác để xem coi các bài trong tuần. Nhóm em xin cảm ơn ạ.
-
-### Nhánh EX02: 
-Bài tập 02 (14/01/2025): Chức năng Register, Login, Forget Password
+# Bài tập 02 (14/01/2025)
+## Chức năng Register, Login, Forget Password
+[LINK GITHUB BAI TAP NHOM MOI](https://github.com/Young-Z-Generation-YZG/Bap_Tap_Nhom_Bai_Tap_02)
+### Thành viên nhóm:
+- 21110359 - Lê Xuân Bách
+- 21110847 - Trần Quốc Phương
