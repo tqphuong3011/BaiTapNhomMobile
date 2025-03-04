@@ -2,5 +2,5 @@
 ## Chức năng Register, Login, Forget Password
 [LINK GITHUB BAI TAP NHOM MOI](https://github.com/Young-Z-Generation-YZG/Bap_Tap_Nhom_Bai_Tap_02)
 ### Thành viên nhóm:
-- Lê Xuân Bách - 21110359  
-- Trần Quốc Phương - 21110847
+- 21110359 - Lê Xuân Bách
+- 21110847 - Trần Quốc Phương
